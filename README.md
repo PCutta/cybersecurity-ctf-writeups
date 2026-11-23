@@ -27,6 +27,7 @@ My goal is to build practical cybersecurity knowledge while improving my technic
 | 3 | [Warmed Up](03-warmed-up/README.md) | Hexadecimal-to-decimal conversion |
 | 4 | [Obedient Cat](04-obedient-cat/README.md) | File inspection and plaintext analysis |
 | 5 | [Wave a Flag](05-wave-a-flag/README.md) | Linux commands, file permissions, executable analysis |
+| 6 | [convertme.py](06-convertme-py/README.md) | Python execution, Linux troubleshooting, binary conversion |
 
 ## Tools and Technologies
 
@@ -56,7 +57,7 @@ This portfolio demonstrates my ongoing commitment to hands-on learning and profe
 
 ## Progress
 
-**Challenges Solved:** 5
+**Challenges Solved:** 6
 
 **Category:** General Skills
 
