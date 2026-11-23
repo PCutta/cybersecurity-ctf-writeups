@@ -28,6 +28,7 @@ My goal is to build practical cybersecurity knowledge while improving my technic
 | 4 | [Obedient Cat](04-obedient-cat/README.md) | File inspection and plaintext analysis |
 | 5 | [Wave a Flag](05-wave-a-flag/README.md) | Linux commands, file permissions, executable analysis |
 | 6 | [convertme.py](06-convertme-py/README.md) | Python execution, Linux troubleshooting, binary conversion |
+| 7 | [Whats A Net Cat?](07-whats-a-net-cat/README.md) | Linux commands, hostnames and ports, establishing TCP connections, remote network services |
 
 ## Tools and Technologies
 
@@ -57,7 +58,7 @@ This portfolio demonstrates my ongoing commitment to hands-on learning and profe
 
 ## Progress
 
-**Challenges Solved:** 6
+**Challenges Solved:** 7
 
 **Category:** General Skills
 
